@@ -1,0 +1,1 @@
+Completely understood the flow of react and vite-react and significance of jsx and naming conventions
